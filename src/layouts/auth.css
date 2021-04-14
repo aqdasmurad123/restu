@@ -1,0 +1,9 @@
+.content{
+    background: linear-gradient(87deg, #150f0f 0,  #150f0f 100%) !important; 
+}
+.bg-default{
+    background: linear-gradient( #fdc500 0,  #fdc500 100%) !important;
+}
+.fill-default{
+    fill:#fdc500 !important;
+}
